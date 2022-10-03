@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    width: 80%;
+    background-color: palevioletred;
+    height: 500px;
+    display: flex;
+    /* padding-top: 20px;
+    padding-left: 20px; */
+    justify-content: space-evenly;
+    align-items: center;
+}
+.card{
+    background-color: slategray;
+    width: 20%;
+    height: 20%;
+    /* margin-right: 10px; */
+}
